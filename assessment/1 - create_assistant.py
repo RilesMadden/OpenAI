@@ -22,4 +22,4 @@ assistant = client.beta.assistants.create(
 
 print(assistant)
 
-# asst_oMgmQXkJf2ZJzTykGd5I1nLP
+# asst_vcHBcrAKptN9w3KZDECJZ0Tr

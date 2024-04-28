@@ -12,7 +12,7 @@ thread = client.beta.threads.create(
   messages=[
     {
       "role": "user",
-      "content": "Explain why New York is Nicole Escobar's favorite city.",
+      "content": "Explain why New York is Tina Escobar's favorite city.",
       "attachments": [
         {
           "file_id": file.id,
@@ -25,4 +25,4 @@ thread = client.beta.threads.create(
 
 print(thread)
 
-# thread_p2WCEijq1ygbZ9qweLkdVUVZ
+# thread_aH2MuYpVDP3UCMjysowJEYYz
